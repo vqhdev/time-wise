@@ -14,5 +14,10 @@ export default defineConfig({
     description: '__MSG_extension_description__',
     default_locale: 'en',
     permissions: ['storage'],
+    browser_specific_settings: {
+      gecko: {
+        id: '{2daebd81-4db3-58e1-b210-4909f11f7990}',
+      },
+    },
   },
 });
