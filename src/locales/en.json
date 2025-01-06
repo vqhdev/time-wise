@@ -1,0 +1,35 @@
+{
+  "extension": {
+    "name": "Time Wise",
+    "description": "Smart time management - From global time zones to time analysis, all in one convenient tool."
+  },
+  "datetime": {
+    "date": "Date",
+    "time": "Time",
+    "local_time": "Local Time",
+    "now": "Current Time",
+    "manual": "Manual Time",
+    "labels": {
+      "timezone": "Timezone"
+    },
+    "formats": {
+      "milliseconds": "Milliseconds",
+      "seconds": "Seconds",
+      "iso": "ISO",
+      "rfc_2822": "RFC 2822",
+      "sql": "SQL",
+      "http": "HTTP",
+      "custom": "Custom"
+    },
+    "errors": {
+      "no_timezone_found": "No timezone found"
+    }
+  },
+  "search": {
+    "placeholder": "Search..."
+  },
+  "donation": {
+    "title": "Donate",
+    "description": "If you find this extension useful, please support our development team by buying us a coffee. Thank you!"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "extension": {
+    "name": "Time Wise",
+    "description": "Quản lý thời gian thông minh - Từ múi giờ toàn cầu đến phân tích thời gian, tất cả trong một công cụ tiện lợi."
+  },
+  "datetime": {
+    "date": "Ngày",
+    "time": "Thời gian",
+    "local_time": "Thời gian địa phương",
+    "now": "Thời gian hiện tại",
+    "manual": "Thời gian thủ công",
+    "labels": {
+      "timezone": "Múi Giờ"
+    },
+    "formats": {
+      "milliseconds": "Mili giây",
+      "seconds": "Giây",
+      "iso": "ISO",
+      "rfc_2822": "RFC 2822",
+      "sql": "SQL",
+      "http": "HTTP",
+      "custom": "Tùy Chỉnh"
+    },
+    "errors": {
+      "no_timezone_found": "Không tìm thấy múi giờ"
+    }
+  },
+  "search": {
+    "placeholder": "Tìm kiếm..."
+  },
+  "donation": {
+    "title": "Ủng hộ",
+    "description": "Nếu bạn thấy tiện ích này hữu ích, hãy ủng hộ đội ngũ phát triển của chúng tôi bằng cách mua một ly cà phê cho chúng tôi. Cảm ơn bạn!"
+  }
+}

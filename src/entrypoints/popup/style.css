@@ -1,0 +1,17 @@
+#root {
+  width: 320px;
+  height: 480px;
+  position: relative;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+}
+.btn-toggle-sider {
+  inset-inline-end: -30%;
+}
+.btn-toggle-sider:hover {
+  inset-inline-end: 0;
+}
+.dark {
+  color-scheme: dark;
+}
