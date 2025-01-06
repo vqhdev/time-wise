@@ -1,7 +1,7 @@
 {
   "name": "time-wise",
   "description": "Smart time management - From global time zones to time analysis, all in one convenient tool.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "type": "module",
   "author": {
     "email": "vqh.dev@gmail.com",
