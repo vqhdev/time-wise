@@ -184,7 +184,7 @@ export default function AppLayout() {
             )}
             <div
               style={{
-                display: isLoading ? 'none' : 'block',
+                display: isLoading ? 'none' : 'initial',
               }}
             >
               <Outlet />
