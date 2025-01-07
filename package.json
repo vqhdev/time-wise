@@ -15,7 +15,11 @@
   "bugs": {
     "url": "https://github.com/vqhdev/time-wise/issues"
   },
-  "keywords": ["time", "timezones", "time wise"],
+  "keywords": [
+    "time",
+    "timezones",
+    "time wise"
+  ],
   "license": "MIT",
   "scripts": {
     "dev": "wxt",
@@ -33,7 +37,7 @@
   "dependencies": {
     "@vvo/tzdb": "^6.157.0",
     "@wxt-dev/i18n": "^0.2.3",
-    "antd": "^5.22.7",
+    "antd": "^5.23.0",
     "lodash": "^4.17.21",
     "luxon": "^3.5.0",
     "react": "^19.0.0",
